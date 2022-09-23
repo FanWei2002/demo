@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println(a);
         int b=sc.nextInt();
         System.out.println(b);
+        char cha=sc.next().charAt(0);
+        System.out.println(cha);
     }
 }
